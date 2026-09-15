@@ -23,6 +23,8 @@ Always looking for new ways to make work smarter. Let's connect.
 - 🌐 Web tool for billability reporting workflows
 - 📊 Power BI dashboard with finance insights for leadership
 - ❄️ Testing Snowflake Cortex agents output for data workflows
+- ✈️ Personal travel itinerary web app with shared calendar view
+- 🏥 Personal medical records tracker web app
 
 ---
 
