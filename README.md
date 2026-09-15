@@ -17,6 +17,15 @@ Always looking for new ways to make work smarter. Let's connect.
 
 ---
 
+### What I'm working on
+
+- 🤖 AI agent for internal process automation at Accenture (Claude Code + VS Code)
+- 🌐 Web tool for billability reporting workflows
+- 📊 Power BI dashboard with finance insights for leadership
+- ❄️ Testing Snowflake Cortex agents output for data workflows
+
+---
+
 ### Stack
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-black?style=flat&logo=anthropic&logoColor=white)
@@ -27,6 +36,10 @@ Always looking for new ways to make work smarter. Let's connect.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+
+---
+
+🌐 **Languages:** Spanish (native) · English (professional)
 
 ---
 
