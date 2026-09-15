@@ -3,6 +3,8 @@
 Product & Project Manager · Accenture · 8+ years  
 Process automation enthusiast · AI agents explorer
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aylensantarelli-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/aylensantarelli)
+
 ---
 
 I own product backlogs end-to-end at Accenture — translating complex business requirements into clear functional specs for engineering teams, coordinating cross-functional squads (data engineers, UX/UI designers, finance SMEs), and delivering on time.
@@ -41,8 +43,7 @@ Always looking for new ways to make work smarter. Let's connect.
 
 ---
 
-🌐 **Languages:** Spanish (native) · English (professional)
+### Languages
 
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aylensantarelli-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/aylensantarelli)
+🇦🇷 Spanish — native  
+🇺🇸 English — professional
