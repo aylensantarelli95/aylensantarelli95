@@ -1,6 +1,6 @@
 # Hi, I'm Aylen 👋
 
-PM · Accenture BI&A · Córdoba, Argentina  
+Product & Project Manager · Accenture  
 Process automation enthusiast · AI agents explorer
 
 ---
