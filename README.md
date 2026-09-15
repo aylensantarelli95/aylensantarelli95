@@ -1,6 +1,6 @@
 # Hi, I'm Aylen 👋
 
-Product & Project Manager · Accenture · 5+ years  
+Product & Project Manager · Accenture · 8+ years  
 Process automation enthusiast · AI agents explorer
 
 ---
