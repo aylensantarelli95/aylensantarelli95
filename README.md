@@ -1,6 +1,6 @@
 # Hi, I'm Aylen 👋
 
-PM · Accenture BI&A · Finance · Córdoba, Argentina  
+PM · Accenture BI&A · Córdoba, Argentina  
 Process automation enthusiast · AI agents explorer
 
 ---
@@ -13,7 +13,7 @@ Lately I've been going deep on **agentic workflows with Claude Code** — buildi
 
 Data background: Power BI, Power Query, Power Automate, SQL. I understand the stack well enough to bridge business and dev teams and write requirements that actually make sense to engineers.
 
-Obsessed with automation. Always experimenting.
+Always looking for new ways to make work smarter. Let's connect.
 
 ---
 
