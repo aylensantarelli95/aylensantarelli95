@@ -1,11 +1,11 @@
 # Hi, I'm Aylen 👋
 
-Product & Project Manager · Accenture  
+Product & Project Manager · Accenture · 5+ years  
 Process automation enthusiast · AI agents explorer
 
 ---
 
-I manage end-to-end delivery of reporting tools and automation products for finance teams at Accenture — from requirements and stakeholder alignment to go-live.
+I own product backlogs end-to-end at Accenture — translating complex business requirements into clear functional specs for engineering teams, coordinating cross-functional squads (data engineers, UX/UI designers, finance SMEs), and delivering on time.
 
 My thing is eliminating manual work. If something is repetitive, I want to build something smarter to replace it.
 
@@ -20,11 +20,13 @@ Always looking for new ways to make work smarter. Let's connect.
 ### Stack
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-black?style=flat&logo=anthropic&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoftpowerautomate&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat&logo=microsoft&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
 
 ---
 
